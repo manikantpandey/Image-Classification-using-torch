@@ -16,7 +16,7 @@ This project demonstrates how to perform image classification using PyTorch and 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your_username/image-classification-pytorch.git
+    git clone https://github.com/manikantpandey/Image-Classification-using-torch.git
     cd image-classification-pytorch
     ```
 
@@ -32,13 +32,7 @@ This project demonstrates how to perform image classification using PyTorch and 
     python training.py
     ```
 
-4. Use the trained model for prediction:
+## License
 
-    ```bash
-    python predict.py path/to/image.jpg
-    ```
-
-    Replace `path/to/image.jpg` with the path to the image you want to classify.
-
-## Directory Structure
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
